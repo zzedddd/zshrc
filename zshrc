@@ -80,8 +80,6 @@ ZSH_COMMAND_TIME_MIN_SECONDS=2
 ZSH_COMMAND_TIME_COLOR="red"
 ZSH_COMMAND_TIME_MSG="Execution time: %s"
 
-
-
 # bun completions
 [ -s "/home/zed/.bun/_bun" ] && source "/home/zed/.bun/_bun"
 
